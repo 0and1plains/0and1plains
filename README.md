@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @0and1plains
-- 👀 I’m interested in programing, and making games, encryption apps etc.
-- 🌱 I’m currently learning how to program in C, and making a Python package called "zaoppp" (Zero And One Plains Python Package)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-0and1plains/0and1plains is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm a person under the nickname "0&1 Plains".
+I'm also only half a year into programming in Python, and a while into programming in C.
+I'm currently working on
+   a Python package called "zaoppp" (Zero And One Plains Python Package),
+   various apps like encryptors, a chat-bots...
+and all of this in Python.
+In the zaoppp package, I'm creating functions like convert temperature, distance, currency etc.,
+but also variables like Pi, Golden ratio, and currency values compared to euros.
